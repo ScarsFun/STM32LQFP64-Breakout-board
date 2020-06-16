@@ -15,7 +15,7 @@ Check notes in schematic and read STM32 datasheets.
 # CHANGELOG
 ## 1.3 (2020-06-16)
 Features:
-	- Added support for STM32F401, STM32F410, STM32F411, STM32F412, STM32F413, STM32F423, STM32F446 
+	- Added support for STM32F401, STM32F410, STM32F411, STM32F412, STM32F413, STM32F423, STM32F446
 Fix:
 	- Added partitor to VBUS  
 
