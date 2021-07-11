@@ -13,6 +13,11 @@ Check notes in schematic and read STM32 datasheets.
 * RTC oscillator is not implemented because no enought PCB spaces to follow STM design guide. ...I'll be pleased if anyone will find a solution 
 
 # CHANGELOG
+## 1.3.1 (2021-07-11)
+### Fix:
+- Fixed reset circuit.
+- Silkscreen improvements.
+
 ## 1.3 (2020-06-16)
 ### Features:
 - Added support for STM32F401, STM32F410, STM32F411, STM32F412, STM32F413, STM32F423, STM32F446
@@ -33,5 +38,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 ![CC](/images/cc.png)
 
  ![PCB_front](/images/Scarsfun11a.png)
- ![PCB_sch](/images/schematic.png)
+ ![PCB_sch](/images/schematics.png)
 
